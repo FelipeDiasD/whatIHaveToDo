@@ -1,9 +1,9 @@
 # whatIHaveToDo
-## App simples de tarefas criado com JavaScript e React Native
+## Simple application deveploped with javascript +  React native 
 
-* Tela principal:✅
-* Componente Tarefas:✅
-* Remoção e adição de tarefas: 🛠
-* Finalização: 🛠
+* Main screed:✅
+* Task components:✅
+* Adding and removing tasks: 🛠
+* Final touchs: 🛠
 
 
